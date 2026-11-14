@@ -1,0 +1,5 @@
+interface:
+  display_name: "xiaohongshu-hotvideo"
+  short_description: "按产品图片搜索小红书高赞同款视频，批量下载并以点赞数命名"
+  default_prompt: "打开 $xiaohongshu-hotvideo。首次使用时请引导我完成配置，已配置时使用我的默认链接数量和视频保存目录。"
+
