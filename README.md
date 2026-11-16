@@ -41,6 +41,9 @@
 
 ![在 Codex 中附上产品图并调用 Skill](assets/readme/product-image-input.png)
 
-如果这个 Skill 对你有帮助，欢迎在 [GitHub](https://github.com/kyy338/xiaohongshu-hotvideo) 点个 Star 支持一下。
+### skill单轮运行架构流程图
+<img width="770" height="845" alt="image" src="https://github.com/user-attachments/assets/132fb416-faec-4d6b-beab-85875d6789fc" />
 
-#AI电商 #Codex #ClaudeCode #小红书运营 #BuildInPublic #开源项目
+
+如果这个 Skill 对你有帮助，麻烦点个 Star 支持一下吧。
+
